@@ -1,20 +1,28 @@
 
   # test
+  ![Static Badge](https://img.shields.io/badge/MIT-blue)
 
   ## Description:
-  testtest
+  test
+
+  ## Table of Contents:
+  -[Installation](#installation)
+  -[Usage](#usage)
+  -[Credits](#credits)
+  -[Licenses](#licenses)
 
   ## Installation
-  35423
+  test
 
-  ## Instructions/Use
-  3215sdlgjs
+  ## Usage
+  test
 
-  ## Collaborators/Credits
-  lkajd
+  ## Credits
+  test
 
   ## Licenses
-  ad
+  Licensed under the MIT license.
 
-  # Badges
-  
+  # Contact Information
+  - Email: test - Email for inquiries
+  - Github: https://github.com/tes

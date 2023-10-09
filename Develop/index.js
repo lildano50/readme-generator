@@ -31,18 +31,23 @@ const questions = [
         name: "credits",
     },
     {
-        type: 'input',
+        type: 'list',
         message: "Please provide any required licenses: ", 
         name: "licenses",
+        choices: ["MIT", "GNU GPLv3", "Apache License 2.0", "None"]
     },
     {
         type: 'input',
-        message: "Please provide any relevant badges: ",
-        name: "badges",
-    }
-];
+        message: "Please enter your Github username: ",
+        name: "github"
+    },
+    {
+        type: 'input',
+        message: "Please enter your email: ",
+        name: "email",
+    },
 
-  
+];
 
 // TODO: Create a function to initialize app
 function init(promptQuesitons){
