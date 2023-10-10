@@ -1,9 +1,9 @@
-// TODO: Include packages needed for this application
+// Includes packages/imports needed for program
 const inquirer = require('inquirer');
 const fs = require('fs');
 const generateMarkdown = require('../Develop/utils/generateMarkdown')
 
-// TODO: Create an array of questions for user input
+// Array of questions to be generated. These will be answered by the user and used to generate the README.md file
 const questions = [
     {
         type: 'input',
@@ -49,7 +49,8 @@ const questions = [
 
 ];
 
-// TODO: Create a function to initialize app
+// Function to initialize application. It brings in questions/answers and sends responses to generateMarkdown()
+// to generate README.md file
 function init(promptQuesitons){
     inquirer
         .prompt(promptQuesitons)
