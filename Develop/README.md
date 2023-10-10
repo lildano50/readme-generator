@@ -1,9 +1,9 @@
 
-  # lkjasd
+  # Test Project 1
   ![Static Badge](https://img.shields.io/badge/MIT-blue)
 
   ## Description:
-  lkjasd
+  This is a generated README.md file. It is generated from utilizing two JS files.
 
   ## Table of Contents:
   - [Installation](#installation)
@@ -16,17 +16,17 @@
 
 
   ## Installation
-  lkjasdolk
+  Run the prompts, answer the questions, and save the file.
 
   ## Usage
-  aslkfjsa
+  Answer the questions when prompted.
 
   ## Credits
-  lkjasdf
+  None
 
   ## Licenses
   Licensed under the MIT license.
 
-  # Contact Information
-  - Email: lkjasd - Email for inquiries
-  - Github: https://github.com/lkjasd
+  # Questions
+  - Email: danielapark87@gmail.com - Email for inquiries
+  - Github: https://github.com/lildano50
